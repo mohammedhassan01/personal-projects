@@ -16,7 +16,7 @@ import javax.xml.ws.Dispatch;
 
 /**
  *
- * @author Dilukshan Mahendra
+ * @author mohammed hassan 
  */
 public class loginval extends HttpServlet {
 
